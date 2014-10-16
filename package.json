@@ -1,0 +1,25 @@
+{
+  "name": "oneapi",
+  "version": "0.0.1",
+  "author": "Jonas Liljestrand <jonas.liljestrand@gmail.com>",
+  "keywords": [
+    "infobip",
+    "oneapi",
+    "sms"
+  ],
+  "description": "Infobip oneapi wrapper",
+  "bugs": {
+    "url":"https://github.com/jonlil/oneapi/issues/new"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "q": "^1.0.1",
+    "request": "^2.45.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonlil/oneapi.git"
+  },
+  "homepage": "http://github.com/jonlil/oneapi"
+}
